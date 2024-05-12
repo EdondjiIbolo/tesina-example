@@ -1,0 +1,1497 @@
+{
+  "all_products": [
+    {
+      "id": 1,
+      "status": "available",
+      "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+      "category": "women",
+      "brand": "H&M",
+      "image": "../images/product_1.png",
+      "imageUrl": "http://localhost:3000/images/product_1.png",
+      "new_price": 50.0,
+      "old_price": 80.5,
+      "description": "Enhance your wardrobe with this elegant blouse featuring flutter sleeves, an overlap collar, and a flattering peplum hem. Perfect for any occasion, this chic blouse effortlessly combines style with comfort. Crafted from premium fabric, it offers versatility and timeless appeal. Elevate your fashion game with this must-have piece."
+    },
+    {
+      "id": 2,
+      "status": "available",
+      "brand": "H&M",
+      "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+      "category": "women",
+      "image": "../images/product_2.png",
+      "imageUrl": "http://localhost:3000/images/product_2.png",
+      "new_price": 85.0,
+      "old_price": 120.5,
+      "description": "Elevate your wardrobe with this chic striped blouse featuring flutter sleeves and an overlap collar. This versatile piece is a standout addition to any outfit, offering a blend of sophistication and modern style. Crafted with attention to detail, it exudes confidence and elegance. Whether for work or leisure, this blouse promises to be your go-to choice."
+    },
+    {
+      "brand": "H&M",
+      "id": 3,
+      "status": "available",
+      "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+      "category": "women",
+      "image": "../images/product_3.png",
+      "imageUrl": "http://localhost:3000/images/product_3.png",
+      "new_price": 60.0,
+      "old_price": 100.5,
+      "description": "Step into elegance with this sophisticated blouse featuring flutter sleeves and a peplum hem. Designed for the fashion-forward woman, this blouse offers a perfect blend of style and comfort. Ideal for various occasions, it can be dressed up or down effortlessly. Crafted from premium fabric, this blouse exudes charm and versatility, making it a timeless addition to your wardrobe."
+    },
+    {
+      "id": 4,
+      "status": "available",
+      "brand": "H&M",
+
+      "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+      "category": "women",
+      "image": "../images/product_4.png",
+      "imageUrl": "http://localhost:3000/images/product_4.png",
+      "new_price": 100.0,
+      "old_price": 150.0,
+      "description": "Make a bold statement with this stylish blouse featuring flutter sleeves, an overlap collar, and a peplum hem. Crafted with attention to detail, this versatile piece offers a perfect balance of sophistication and trendiness. Ideal for formal or casual occasions, it showcases your unique style effortlessly. Elevate your wardrobe with this chic and timeless blouse."
+    },
+    {
+      "id": 5,
+      "status": "available",
+      "brand": "Zara",
+
+      "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+      "category": "women",
+      "image": "../images/product_5.png",
+      "imageUrl": "http://localhost:3000/images/product_5.png",
+      "new_price": 85.0,
+      "old_price": 120.5,
+      "description": "Upgrade your look with this trendy blouse featuring flutter sleeves and an overlap collar. This versatile piece is perfect for adding a touch of elegance to any outfit. Crafted from premium fabric, it offers comfort and style in equal measure. Whether for work or play, this blouse is a wardrobe essential that complements your unique sense of fashion."
+    },
+    {
+      "id": 6,
+      "status": "available",
+      "brand": "Zara",
+
+      "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+      "category": "women",
+      "image": "../images/product_6.png",
+      "imageUrl": "http://localhost:3000/images/product_6.png",
+      "new_price": 85.0,
+      "old_price": 120.5,
+      "description": "Stay ahead in style with this fashionable blouse featuring flutter sleeves and an overlap collar. Effortlessly chic, this piece is a must-have for every fashion enthusiast. Crafted with meticulous attention to detail, it exudes confidence and sophistication. Whether for casual outings or special occasions, this blouse promises to elevate your look."
+    },
+    {
+      "id": 7,
+      "status": "available",
+      "brand": "Zara",
+
+      "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+      "category": "women",
+      "image": "../images/product_7.png",
+      "imageUrl": "http://localhost:3000/images/product_7.png",
+      "new_price": 85.0,
+      "old_price": 120.5,
+      "description": "Add versatility to your wardrobe with this chic blouse featuring flutter sleeves and an overlap collar. Effortlessly stylish, this piece is a go-to option for various occasions. Crafted from premium fabric, it offers comfort and elegance in equal measure. Elevate your fashion quotient with this timeless blouse that complements your unique style."
+    },
+    {
+      "id": 8,
+      "status": "available",
+      "brand": "Zara",
+
+      "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+      "category": "women",
+      "image": "../images/product_8.png",
+      "imageUrl": "http://localhost:3000/images/product_8.png",
+      "new_price": 85.0,
+      "old_price": 120.5,
+      "description": "Redefine your style with this chic blouse featuring flutter sleeves and an overlap collar. Crafted with precision, this versatile piece effortlessly transitions from day to night. Ideal for work or play, it offers a perfect blend of comfort and sophistication. Elevate your wardrobe with this timeless and fashionable blouse."
+    },
+    {
+      "id": 9,
+      "status": "available",
+      "brand": "Zara",
+
+      "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+      "category": "women",
+      "image": "../images/product_9.png",
+      "imageUrl": "http://localhost:3000/images/product_9.png",
+      "new_price": 85.0,
+      "old_price": 120.5,
+      "description": "Indulge in elegance with this timeless blouse featuring flutter sleeves and an overlap collar. Crafted from premium fabric, this versatile piece offers a perfect balance of comfort and style. Ideal for various occasions, it showcases your unique fashion sense effortlessly. Elevate your look with this sophisticated and chic blouse."
+    },
+    {
+      "id": 10,
+      "status": "available",
+      "brand": "Gucci",
+
+      "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+      "category": "women",
+      "image": "../images/product_10.png",
+      "imageUrl": "http://localhost:3000/images/product_10.png",
+      "new_price": 85.0,
+      "old_price": 120.5,
+      "description": "Stand out effortlessly with this trendy blouse featuring flutter sleeves and an overlap collar. Crafted with attention to detail, this versatile piece complements your unique style. Perfect for all occasions, it exudes confidence and elegance. Elevate your fashion game with this must-have addition to your wardrobe."
+    },
+    {
+      "id": 11,
+      "status": "available",
+      "brand": "Gucci",
+
+      "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+      "category": "women",
+      "image": "../images/product_11.png",
+      "imageUrl": "http://localhost:3000/images/product_11.png",
+      "new_price": 85.0,
+      "old_price": 120.5,
+      "description": "Elevate your style with this chic blouse featuring flutter sleeves and an overlap collar. Crafted from premium fabric, this versatile piece offers comfort and sophistication. Ideal for various occasions, it complements your unique sense of fashion effortlessly. Make a statement with this timeless blouse that combines elegance with trendiness."
+    },
+    {
+      "id": 12,
+      "status": "available",
+      "brand": "Gucci",
+
+      "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+      "category": "women",
+      "image": "../images/product_12.png",
+      "imageUrl": "http://localhost:3000/images/product_12.png",
+      "new_price": 85.0,
+      "old_price": 120.5,
+      "description": "Indulge in elegance with this sophisticated blouse featuring flutter sleeves and an overlap collar. Crafted with meticulous attention to detail, this piece exudes confidence and style. Perfect for work or play, it showcases your fashion-forward taste. Elevate your wardrobe with this chic and versatile blouse."
+    },
+    {
+      "id": 13,
+      "status": "available",
+      "brand": "Gucci",
+
+      "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+      "category": "men",
+      "image": "../images/product_13.png",
+      "imageUrl": "http://localhost:3000/images/product_13.png",
+      "new_price": 85.0,
+      "old_price": 120.5,
+      "description": "Revamp your look with this sleek bomber jacket featuring a solid green design and a zippered full-zip closure. Crafted from premium materials, this slim-fit jacket offers comfort and style. Ideal for casual outings or weekend adventures, it complements your urban lifestyle effortlessly. Elevate your outerwear collection with this must-have jacket."
+    },
+    {
+      "id": 14,
+      "status": "available",
+      "brand": "Gucci",
+
+      "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+      "category": "men",
+      "image": "../images/product_14.png",
+      "imageUrl": "http://localhost:3000/images/product_14.png",
+      "new_price": 85.0,
+      "old_price": 120.5,
+      "description": "Add a touch of style to your wardrobe with this trendy bomber jacket featuring a solid green hue and a zippered full-zip closure. This slim-fit jacket is perfect for layering and offers a blend of comfort and sophistication. Ideal for everyday wear, it complements your modern lifestyle effortlessly."
+    },
+    {
+      "id": 15,
+      "status": "available",
+      "brand": "Gucci",
+
+      "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+      "category": "men",
+      "image": "../images/product_15.png",
+      "imageUrl": "http://localhost:3000/images/product_15.png",
+      "new_price": 85.0,
+      "old_price": 120.5,
+      "description": "Make a style statement with this sleek bomber jacket featuring a solid green design and a zippered full-zip closure. Crafted with attention to detail, this slim-fit jacket offers versatility and comfort. Ideal for casual outings or evening gatherings, it complements your unique sense of style effortlessly."
+    },
+    {
+      "id": 16,
+      "status": "available",
+      "brand": "Gucci",
+
+      "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+      "category": "men",
+      "image": "../images/product_16.png",
+      "imageUrl": "http://localhost:3000/images/product_16.png",
+      "new_price": 85.0,
+      "old_price": 120.5,
+      "description": "Upgrade your wardrobe with this stylish bomber jacket featuring a solid green hue and a zippered full-zip closure. Crafted from premium materials, this slim-fit jacket offers comfort and durability. Perfect for layering, it adds a touch of sophistication to your casual ensemble."
+    },
+    {
+      "id": 17,
+      "status": " not available",
+      "brand": "Luis Vuitton",
+
+      "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+      "category": "men",
+      "image": "../images/product_17.png",
+      "imageUrl": "http://localhost:3000/images/product_17.png",
+      "new_price": 85.0,
+      "old_price": 120.5,
+      "description": "Discover timeless style with this sleek bomber jacket featuring a solid green design and a zippered full-zip closure. Crafted with precision, this slim-fit jacket offers comfort and versatility. Ideal for everyday wear, it complements your casual wardrobe effortlessly."
+    },
+    {
+      "brand": "Luis Vuitton",
+      "id": 18,
+      "status": "available",
+      "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+      "category": "men",
+      "image": "../images/product_18.png",
+      "imageUrl": "http://localhost:3000/images/product_18.png",
+      "new_price": 85.0,
+      "old_price": 120.5,
+      "description": "Elevate your outerwear collection with this sleek bomber jacket featuring a solid green hue and a zippered full-zip closure. Crafted from premium materials, this slim-fit jacket offers comfort and style. Perfect for layering, it adds a touch of sophistication to your urban wardrobe."
+    },
+    {
+      "brand": "Luis Vuitton",
+      "id": 19,
+      "status": "available",
+      "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+      "category": "men",
+      "image": "../images/product_19.png",
+      "imageUrl": "http://localhost:3000/images/product_19.png",
+      "new_price": 85.0,
+      "old_price": 120.5,
+      "description": "Indulge in urban style with this trendy bomber jacket featuring a solid green hue and a zippered full-zip closure. Crafted with attention to detail, this slim-fit jacket offers comfort and sophistication. Ideal for casual outings or weekend adventures, it complements your modern lifestyle effortlessly."
+    },
+    {
+      "brand": "Luis Vuitton",
+      "id": 20,
+      "status": "available",
+      "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+      "category": "men",
+      "image": "../images/product_20.png",
+      "imageUrl": "http://localhost:3000/images/product_20.png",
+      "new_price": 85.0,
+      "old_price": 120.5,
+      "description": "Upgrade your wardrobe with this stylish bomber jacket featuring a solid green hue and a zippered full-zip closure. Crafted from premium materials, this slim-fit jacket offers comfort and durability. Perfect for layering, it adds a touch of sophistication to your casual ensemble."
+    },
+
+    {
+      "id": 21,
+      "status": "available",
+      "brand": "Luis Vuitton",
+      "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+      "category": "men",
+      "image": "../images/product_21.png",
+      "imageUrl": "http://localhost:3000/images/product_21.png",
+      "new_price": 85.0,
+      "old_price": 120.5,
+      "description": "Elevate your outerwear collection with this sleek bomber jacket featuring a solid green hue and a zippered full-zip closure. Crafted from premium materials, this slim-fit jacket offers comfort and style. Perfect for layering, it adds a touch of sophistication to your casual ensemble."
+    },
+    {
+      "id": 22,
+      "status": "available",
+      "brand": "Luis Vuitton",
+      "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+      "category": "men",
+      "image": "../images/product_22.png",
+      "imageUrl": "http://localhost:3000/images/product_22.png",
+      "new_price": 85.0,
+      "old_price": 120.5,
+      "description": "Indulge in urban style with this trendy bomber jacket featuring a solid green hue and a zippered full-zip closure. Crafted with attention to detail, this slim-fit jacket offers comfort and sophistication. Ideal for casual outings or weekend adventures, it complements your modern lifestyle effortlessly."
+    },
+    {
+      "id": 23,
+      "status": "available",
+      "brand": "Luis Vuitton",
+      "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+      "category": "men",
+      "image": "../images/product_23.png",
+      "imageUrl": "http://localhost:3000/images/product_23.png",
+      "new_price": 85.0,
+      "old_price": 120.5,
+      "description": "Upgrade your wardrobe with this stylish bomber jacket featuring a solid green hue and a zippered full-zip closure. Crafted from premium materials, this slim-fit jacket offers comfort and durability. Perfect for layering, it adds a touch of sophistication to your casual ensemble."
+    },
+    {
+      "id": 24,
+      "status": "available",
+      "brand": "Luis Vuitton",
+      "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+      "category": "men",
+      "image": "../images/product_24.png",
+      "imageUrl": "http://localhost:3000/images/product_24.png",
+      "new_price": 85.0,
+      "old_price": 120.5,
+      "description": "Discover timeless style with this sleek bomber jacket featuring a solid green design and a zippered full-zip closure. Crafted with precision, this slim-fit jacket offers comfort and versatility. Ideal for everyday wear, it complements your casual wardrobe effortlessly."
+    },
+    {
+      "id": 25,
+      "status": "available",
+      "brand": "Luis Vuitton",
+      "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+      "category": "kid",
+      "image": "../images/product_25.png",
+      "imageUrl": "http://localhost:3000/images/product_25.png",
+      "new_price": 85.0,
+      "old_price": 120.5,
+      "description": "Add a pop of color to your kid's wardrobe with this stylish hooded sweatshirt featuring an orange colorblocked design. Crafted with comfort in mind, this sweatshirt is perfect for everyday wear and outdoor activities. Keep your little one warm and cozy while showcasing their unique style."
+    },
+    {
+      "id": 26,
+      "status": "available",
+      "brand": "Luis Vuitton",
+      "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+      "category": "kid",
+      "image": "../images/product_26.png",
+      "imageUrl": "http://localhost:3000/images/product_26.png",
+      "new_price": 85.0,
+      "old_price": 120.5,
+      "description": "Enhance your kid's casual wardrobe with this vibrant hooded sweatshirt featuring an orange colorblocked design. Crafted from soft and durable materials, this sweatshirt offers comfort and style. Perfect for layering, it adds a playful touch to your child's everyday look."
+    },
+    {
+      "id": 27,
+      "status": "available",
+      "brand": "Bershka",
+      "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+      "category": "kid",
+      "image": "../images/product_27.png",
+      "imageUrl": "http://localhost:3000/images/product_27.png",
+      "new_price": 85.0,
+      "old_price": 120.5,
+      "description": "Add a splash of color to your child's wardrobe with this trendy hooded sweatshirt featuring an orange colorblocked design. Crafted with attention to detail, this sweatshirt offers comfort and style. Ideal for school or playdates, it complements your kid's energetic personality."
+    },
+    {
+      "id": 28,
+      "status": "available",
+      "brand": "Bershka",
+      "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+      "category": "kid",
+      "image": "../images/product_28.png",
+      "imageUrl": "http://localhost:3000/images/product_28.png",
+      "new_price": 85.0,
+      "old_price": 120.5,
+      "description": "Elevate your child's wardrobe with this vibrant hooded sweatshirt featuring an orange colorblocked design. Crafted from soft and durable materials, this sweatshirt offers comfort and style. Perfect for outdoor activities or casual outings, it adds a playful element to your kid's look."
+    },
+    {
+      "id": 29,
+      "status": "available",
+      "brand": "Bershka",
+      "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+      "category": "kid",
+      "image": "../images/product_29.png",
+      "imageUrl": "http://localhost:3000/images/product_29.png",
+      "new_price": 85.0,
+      "old_price": 120.5,
+      "description": "Transform your child's wardrobe with this stylish hooded sweatshirt featuring an eye-catching orange colorblocked design. Crafted with comfort and style in mind, this sweatshirt is ideal for everyday wear. Let your little one showcase their unique personality with this trendy piece."
+    },
+    {
+      "id": 30,
+      "status": "available",
+      "brand": "Bershka",
+      "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+      "category": "kid",
+      "image": "../images/product_30.png",
+      "imageUrl": "http://localhost:3000/images/product_30.png",
+      "new_price": 85.0,
+      "old_price": 120.5,
+      "description": "Revamp your kid's wardrobe with this vibrant hooded sweatshirt featuring an orange colorblocked design. Crafted from soft and durable materials, this sweatshirt offers comfort and style. Perfect for everyday adventures, it adds a playful touch to your child's look."
+    },
+
+    {
+      "id": 31,
+      "status": "available",
+      "brand": "Bershka",
+      "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+      "category": "kid",
+      "image": "../images/product_31.png",
+      "imageUrl": "http://localhost:3000/images/product_31.png",
+      "new_price": 85.0,
+      "old_price": 120.5,
+      "description": "Elevate your child's casual style with this trendy hooded sweatshirt featuring a vibrant orange colorblocked design. Crafted from soft and durable materials, this sweatshirt offers comfort and warmth. Ideal for everyday wear, it adds a playful element to your kid's wardrobe."
+    },
+    {
+      "id": 32,
+      "status": "available",
+      "brand": "Bershka",
+      "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+      "category": "kid",
+      "image": "../images/product_32.png",
+      "imageUrl": "http://localhost:3000/images/product_32.png",
+      "new_price": 85.0,
+      "old_price": 120.5,
+      "description": "Enhance your child's wardrobe with this stylish hooded sweatshirt featuring an eye-catching orange colorblocked design. Crafted with comfort in mind, this sweatshirt offers warmth and versatility. Perfect for outdoor adventures or casual outings, it adds a playful touch to your kid's look."
+    },
+    {
+      "id": 33,
+      "status": "available",
+      "brand": "Bershka",
+      "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+      "category": "kid",
+      "image": "../images/product_33.png",
+      "imageUrl": "http://localhost:3000/images/product_33.png",
+      "new_price": 85.0,
+      "old_price": 120.5,
+      "description": "Transform your child's wardrobe with this trendy hooded sweatshirt featuring a vibrant orange colorblocked design. Crafted from soft and durable materials, this sweatshirt offers comfort and style. Perfect for everyday adventures, it adds a pop of color to your kid's look."
+    },
+    {
+      "id": 34,
+      "status": "available",
+      "brand": "Bershka",
+      "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+      "category": "kid",
+      "image": "../images/product_34.png",
+      "imageUrl": "http://localhost:3000/images/product_34.png",
+      "new_price": 85.0,
+      "old_price": 120.5,
+      "description": "Revamp your child's wardrobe with this vibrant hooded sweatshirt featuring an orange colorblocked design. Crafted from soft and durable materials, this sweatshirt offers comfort and style. Perfect for everyday wear, it adds a playful element to your kid's casual ensemble."
+    },
+    {
+      "id": 35,
+      "status": "available",
+      "brand": "Bershka",
+      "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+      "category": "kid",
+      "image": "../images/product_35.png",
+      "imageUrl": "http://localhost:3000/images/product_35.png",
+      "new_price": 85.0,
+      "old_price": 120.5,
+      "description": "Add a pop of color to your child's wardrobe with this vibrant hooded sweatshirt featuring an orange colorblocked design. Crafted with attention to detail, this sweatshirt offers comfort and style. Ideal for school or playdates, it complements your kid's energetic personality."
+    },
+    {
+      "id": 36,
+      "status": "available",
+      "brand": "Bershka",
+      "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+      "category": "kid",
+      "image": "../images/product_36.png",
+      "imageUrl": "http://localhost:3000/images/product_36.png",
+      "new_price": 85.0,
+      "old_price": 120.5,
+      "description": "Upgrade your child's wardrobe with this trendy hooded sweatshirt featuring an eye-catching orange colorblocked design. Crafted with comfort and style in mind, this sweatshirt is perfect for everyday wear. Let your little one showcase their unique personality with this vibrant piece."
+    },
+    {
+      "id": 40,
+      "status": "available",
+      "name": "Xiaomi Mi 11 Ultra",
+      "category": "smartphone",
+      "brand": "Xiaomi",
+      "description": "El Xiaomi Mi 11 Ultra es un teléfono con una pantalla AMOLED de 6.81 pulgadas, procesador Snapdragon 888, sistema de cámara triple con sensor principal de 50 MP y zoom óptico 5x, y una batería de 5,000 mAh con carga rápida de 67W.",
+      "imageUrl": "http://localhost:3000/images/Xiaomi_Mi_11_Ultra.png",
+      "image": "../images/Xiaomi_Mi_11_Ultra.png",
+      "old_price": 1199,
+      "new_price": 1099
+    },
+    {
+      "id": 411,
+      "status": "available",
+      "name": "Sony Xperia 1 III",
+      "category": "smartphone",
+      "imageUrl": "http://localhost:3000/images/Sony_Xperia_1_III.avif",
+      "image": "../images/Sony_Xperia_1_III.avif",
+      "brand": "Sony",
+      "description": "El Sony Xperia 1 III es un smartphone con pantalla OLED 4K HDR de 6.5 pulgadas, procesador Snapdragon 888, sistema de cámara triple con tecnología ZEISS y una batería de 4,500 mAh.",
+      "old_price": 1299,
+      "new_price": 1199
+    },
+    {
+      "id": 42,
+      "status": "available",
+      "name": "Huawei P50 Pro",
+      "category": "smartphone",
+      "brand": "Huawei",
+      "description": "El Huawei P50 Pro es un teléfono con una pantalla OLED de 6.6 pulgadas, procesador Snapdragon 888 (Exynos 9000 en algunas regiones), sistema de cámara cuádruple con sensor principal de 50 MP y zoom óptico 5x, y una batería de 4,360 mAh.",
+      "imageUrl": "http://localhost:3000/images/Huawei_P50_Pro.jpg",
+      "image": "../images/Huawei_P50_Pro.jpg",
+      "old_price": 1099,
+      "new_price": 999
+    },
+    {
+      "id": 43,
+      "status": "available",
+      "name": "Realme GT",
+      "category": "smartphone",
+      "brand": "Realme",
+      "description": "El Realme GT es un smartphone con una pantalla Super AMOLED de 6.43 pulgadas, procesador Snapdragon 888, sistema de cámara triple con sensor principal de 64 MP y una batería de 4,500 mAh con carga rápida de 65W.",
+      "imageUrl": "http://localhost:3000/images/Realme_GT.webp",
+      "image": "../images/Realme_GT.webp",
+      "old_price": 599,
+      "new_price": 549
+    },
+    {
+      "id": 44,
+      "status": "available",
+      "name": "Asus ROG Phone 5",
+      "category": "smartphone",
+      "brand": "Asus",
+      "description": "El Asus ROG Phone 5 es un teléfono gaming con pantalla AMOLED de 6.78 pulgadas, procesador Snapdragon 888, sistema de cámara triple con sensor principal de 64 MP y una batería de 6,000 mAh.",
+      "imageUrl": "http://localhost:3000/images/Asus_ROG_Phone_5.jpg",
+      "image": "../images/Asus_ROG_Phone_5.jpg",
+      "old_price": 999,
+      "new_price": 899
+    },
+    {
+      "id": 45,
+      "status": "available",
+      "name": "LG Wing",
+      "category": "smartphone",
+      "brand": "LG",
+      "description": "El LG Wing es un smartphone único con una pantalla principal OLED de 6.8 pulgadas que gira para revelar una segunda pantalla de 3.9 pulgadas. Cuenta con un procesador Snapdragon 765G, sistema de cámara triple con un sensor principal de 64 MP y una batería de 4,000 mAh.",
+      "imageUrl": "http://localhost:3000/images/LG_Wing.webp",
+      "image": "../images/LG_Wing.webp",
+      "old_price": 999,
+      "new_price": 899
+    },
+    {
+      "id": 46,
+      "status": "available",
+      "name": "Motorola Edge 20 Pro",
+      "category": "smartphone",
+      "brand": "Motorola",
+      "description": "El Motorola Edge 20 Pro es un smartphone con una pantalla OLED de 6.7 pulgadas, procesador Snapdragon 870, sistema de cámara triple con sensor principal de 108 MP y una batería de 4,500 mAh con carga rápida de 30W.",
+      "imageUrl": "http://localhost:3000/images/Motorola_Edge_20_Pro.jpg",
+      "image": "../images/Motorola_Edge_20_Pro.jpg",
+      "old_price": 699,
+      "new_price": 649
+    },
+    {
+      "id": 47,
+      "status": "available",
+      "name": "Nokia X20",
+      "category": "smartphone",
+      "brand": "Nokia",
+      "description": "El Nokia X20 es un teléfono con una pantalla IPS LCD de 6.67 pulgadas, procesador Snapdragon 480, sistema de cámara cuádruple con sensor principal de 64 MP y una batería de 4,470 mAh.",
+      "imageUrl": "http://localhost:3000/images/Nokia_X20.webp",
+      "image": "../images/Nokia_X20.webp",
+      "old_price": 399,
+      "new_price": 349
+    },
+    {
+      "id": 48,
+      "status": "available",
+      "name": "BlackBerry Key3",
+      "category": "smartphone",
+      "brand": "BlackBerry",
+      "description": "El BlackBerry Key3 es un smartphone con teclado físico y pantalla OLED de 6.5 pulgadas, procesador Snapdragon 765G, sistema de cámara dual con sensor principal de 48 MP y una batería de 4,500 mAh.",
+      "imageUrl": "http://localhost:3000/images/BlackBerry_Key3.jpg",
+      "image": "../images/BlackBerry_Key3.jpg",
+      "old_price": 799,
+      "new_price": 699
+    },
+    {
+      "id": 49,
+      "status": "available",
+      "name": "Oppo Find X4 Pro",
+      "category": "smartphone",
+      "brand": "Oppo",
+      "description": "El Oppo Find X4 Pro es un teléfono con pantalla OLED de 6.7 pulgadas, procesador Snapdragon 8 Gen 1, sistema de cámara triple con sensor principal de 50 MP y una batería de 5,000 mAh.",
+      "imageUrl": "http://localhost:3000/images/Oppo_Find_X4_Pro.jpg",
+      "image": "../images/Oppo_Find_X4_Pro.jpg",
+      "old_price": 1099,
+      "new_price": 999
+    },
+    {
+      "id": 50,
+      "status": "available",
+      "name": "Vivo X70 Pro+",
+      "category": "smartphone",
+      "brand": "Vivo",
+      "description": "El Vivo X70 Pro+ es un smartphone con pantalla OLED de 6.78 pulgadas, procesador Snapdragon 888, sistema de cámara cuádruple con sensor principal de 50 MP y una batería de 4,500 mAh con carga rápida de 55W.",
+      "imageUrl": "http://localhost:3000/images/Vivo_X70_Pro.webp",
+      "image": "../images/Vivo_X70_Pro.webp",
+      "old_price": 899,
+      "new_price": 799
+    },
+    {
+      "id": 51,
+      "status": "available",
+      "name": "ZTE Axon 30 Ultra",
+      "category": "smartphone",
+      "brand": "ZTE",
+      "description": "El ZTE Axon 30 Ultra es un teléfono con pantalla AMOLED de 6.67 pulgadas, procesador Snapdragon 888, sistema de cámara cuádruple con sensor principal de 64 MP y una batería de 4,600 mAh.",
+      "imageUrl": "http://localhost:3000/images/ZTE_Axon_30_Ultra.jpg",
+      "image": "../images/ZTE_Axon_30_Ultra.jpg",
+      "old_price": 799,
+      "new_price": 699
+    },
+    {
+      "id": 52,
+      "status": "available",
+      "name": "Lenovo Legion Phone Duel 2",
+      "category": "smartphone",
+      "brand": "Lenovo",
+      "description": "El Lenovo Legion Phone Duel 2 es un smartphone gaming con pantalla AMOLED de 6.92 pulgadas, procesador Snapdragon 888, sistema de cámara dual con sensor principal de 64 MP y una batería de 5,500 mAh.",
+      "imageUrl": "http://localhost:3000/images/Lenovo_Legion_Phone_Duel_2.jpg",
+      "image": "../images/Lenovo_Legion_Phone_Duel_2.jpg",
+      "old_price": 999,
+      "new_price": 899
+    },
+    {
+      "id": 53,
+      "status": "available",
+      "name": "Redmi Note 11 Pro",
+      "category": "smartphone",
+      "brand": "Redmi",
+      "description": "El Redmi Note 11 Pro es un teléfono con pantalla AMOLED de 6.67 pulgadas, procesador Snapdragon 695, sistema de cámara triple con sensor principal de 108 MP y una batería de 5,000 mAh.",
+      "imageUrl": "http://localhost:3000/images/Redmi_Note_11_Pro.jpg",
+      "image": "../images/Redmi_Note_11_Pro.jpg",
+      "old_price": 499,
+      "new_price": 449
+    },
+    {
+      "name": "iPhone 13 Pro Max",
+      "category": "smartphone",
+      "status": "not available",
+      "imageUrl": "http://localhost:3000/images/iPhone_13.jpg",
+      "image": "../images/iPhone_13.jpg",
+      "brand": "Apple",
+      "description": "El iPhone 13 Pro Max es el buque insignia de Apple con una pantalla Super Retina XDR de 6.7 pulgadas, procesador A15 Bionic, sistema de triple cámara con tecnología LiDAR y modo noche mejorado.",
+      "old_price": 1299,
+      "new_price": 1199
+    },
+    {
+      "id": 37,
+      "status": "available",
+      "name": "Samsung Galaxy S21 Ultra",
+      "category": "smartphone",
+      "brand": "Samsung",
+      "imageUrl": "http://localhost:3000/images/Samsung_Galaxy_S21_Ultra.webp",
+      "image": "../images/Samsung_Galaxy_S21_Ultra.webp",
+      "description": "El Samsung Galaxy S21 Ultra es el teléfono más avanzado de la serie Galaxy S21. Cuenta con una pantalla Dynamic AMOLED 2X de 6.8 pulgadas, procesador Exynos 2100 (Snapdragon 888 en algunas regiones), sistema de cámara cuádruple con zoom óptico de 10x y compatibilidad con S Pen.",
+      "old_price": 1399,
+      "new_price": 1199
+    },
+    {
+      "id": 38,
+      "status": "available",
+      "name": "Google Pixel 6 Pro",
+      "category": "smartphone",
+      "brand": "Google",
+      "imageUrl": "http://localhost:3000/images/Google_Pixel_6_Pro.jpg",
+      "image": "../images/Google_Pixel_6_Pro.jpg",
+
+      "description": "El Google Pixel 6 Pro es el último buque insignia de Google con una pantalla OLED de 6.7 pulgadas, procesador Tensor personalizado de Google, sistema de cámara de triple lente con teleobjetivo y una batería de larga duración.",
+      "old_price": 899,
+      "new_price": 799
+    },
+    {
+      "id": 39,
+      "status": "available",
+
+      "name": "OnePlus 9 Pro",
+      "category": "smartphone",
+      "brand": "OnePlus",
+      "imageUrl": "http://localhost:3000/images/OnePlus_9_Pro.jpg",
+      "image": "../images/OnePlus_9_Pro.jpg",
+      "description": "El OnePlus 9 Pro es un smartphone de alta gama con una pantalla Fluid AMOLED de 6.7 pulgadas, procesador Snapdragon 888, sistema de cámara Hasselblad de cuádruple lente y carga rápida de 65 W.",
+      "old_price": 999,
+      "new_price": 899
+    },
+    {
+      "id": 440,
+      "status": "available",
+      "name": "Xiaomi Mi 11 Ultra",
+      "category": "smartphone",
+      "brand": "Xiaomi",
+      "description": "El Xiaomi Mi 11 Ultra es un teléfono con una pantalla AMOLED de 6.81 pulgadas, procesador Snapdragon 888, sistema de cámara triple con sensor principal de 50 MP y zoom óptico 5x, y una batería de 5,000 mAh con carga rápida de 67W.",
+      "imageUrl": "http://localhost:3000/images/Xiaomi_Mi_11_Ultra.png",
+      "image": "../images/Xiaomi_Mi_11_Ultra.png",
+      "old_price": 1199,
+      "new_price": 1099
+    },
+
+    {
+      "name": "Huawei P50 Pro",
+      "category": "smartphone",
+      "brand": "Huawei",
+      "imageUrl": "http://localhost:3000/images/Huawei_P50_Pro.jpg",
+      "image": "../images/Huawei_P50_Pro.jpg",
+      "description": "El Huawei P50 Pro es un teléfono con una pantalla OLED de 6.6 pulgadas, procesador Snapdragon 888 (Exynos 9000 en algunas regiones), sistema de cámara cuádruple con sensor principal de 50 MP y zoom óptico 5x, y una batería de 4,360 mAh.",
+      "old_price": 1099,
+      "new_price": 999
+    },
+    {
+      "name": "Realme GT",
+      "category": "smartphone",
+      "status": "available",
+      "brand": "Realme",
+      "imageUrl": "http://localhost:3000/images/Realme_GT.webp",
+      "image": "../images/Realme_GT.webp",
+      "description": "El Realme GT es un smartphone con una pantalla Super AMOLED de 6.43 pulgadas, procesador Snapdragon 888, sistema de cámara triple con sensor principal de 64 MP y una batería de 4,500 mAh con carga rápida de 65W.",
+      "old_price": 599,
+      "new_price": 549
+    },
+    {
+      "name": "Asus ROG Phone 5",
+      "category": "smartphone",
+      "status": "available",
+      "brand": "Asus",
+      "imageUrl": "http://localhost:3000/images/Asus_ROG_Phone_5.jpg",
+      "image": "../images/Asus_ROG_Phone_5.jpg",
+      "description": "El Asus ROG Phone 5 es un teléfono gaming con pantalla AMOLED de 6.78 pulgadas, procesador Snapdragon 888, sistema de cámara triple con sensor principal de 64 MP y una batería de 6,000 mAh.",
+      "old_price": 999,
+      "new_price": 899
+    },
+    {
+      "id": "908",
+      "name": "LG Wing",
+      "category": "smartphone",
+      "status": "available",
+      "brand": "LG",
+      "imageUrl": "http://localhost:3000/images/LG_Wing.webp",
+      "image": "../images/LG_Wing.webp",
+      "description": "El LG Wing es un smartphone único con una pantalla principal OLED de 6.8 pulgadas que gira para revelar una segunda pantalla de 3.9 pulgadas. Cuenta con un procesador Snapdragon 765G, sistema de cámara triple con un sensor principal de 64 MP y una batería de 4,000 mAh.",
+      "old_price": 999,
+      "new_price": 899
+    },
+    {
+      "id": "948",
+      "name": "Motorola Edge 20 Pro",
+      "category": "smartphone",
+      "brand": "Motorola",
+      "imageUrl": "http://localhost:3000/images/Motorola_Edge_20_Pro.jpg",
+      "image": "../images/Motorola_Edge_20_Pro.jpg",
+      "description": "El Motorola Edge 20 Pro es un smartphone con una pantalla OLED de 6.7 pulgadas, procesador Snapdragon 870, sistema de cámara triple con sensor principal de 108 MP y una batería de 4,500 mAh con carga rápida de 30W.",
+      "old_price": 699,
+      "new_price": 649
+    },
+    {
+      "id": "998",
+      "name": "Nokia X20",
+      "category": "smartphone",
+      "brand": "Nokia",
+      "imageUrl": "http://localhost:3000/images/Nokia_X20.webp",
+      "image": "../images/Nokia_X20.webp",
+      "description": "El Nokia X20 es un teléfono con una pantalla IPS LCD de 6.67 pulgadas, procesador Snapdragon 480, sistema de cámara cuádruple con sensor principal de 64 MP y una batería de 4,470 mAh.",
+      "old_price": 399,
+      "new_price": 349
+    },
+    {
+      "name": "BlackBerry Key3",
+      "category": "smartphone",
+      "id": "990",
+      "brand": "BlackBerry",
+      "imageUrl": "http://localhost:3000/images/BlackBerry_Key3.jpg",
+      "image": "../images/BlackBerry_Key3.jpg",
+      "description": "El BlackBerry Key3 es un smartphone con teclado físico y pantalla OLED de 6.5 pulgadas, procesador Snapdragon 765G, sistema de cámara dual con sensor principal de 48 MP y una batería de 4,500 mAh.",
+      "old_price": 799,
+      "new_price": 699
+    },
+    {
+      "id": "960",
+      "name": "Oppo Find X4 Pro",
+      "category": "smartphone",
+      "brand": "Oppo",
+      "imageUrl": "http://localhost:3000/images/Oppo_Find_X4_Pro.jpg",
+      "image": "../images/Oppo_Find_X4_Pro.jpg",
+      "description": "El Oppo Find X4 Pro es un teléfono con pantalla OLED de 6.7 pulgadas, procesador Snapdragon 8 Gen 1, sistema de cámara triple con sensor principal de 50 MP y una batería de 5,000 mAh.",
+      "old_price": 1099,
+      "new_price": 999
+    },
+    {
+      "id": "940",
+      "name": "Vivo X70 Pro+",
+      "category": "smartphone",
+      "brand": "Vivo",
+      "imageUrl": "http://localhost:3000/images/Vivo_X70_Pro.webp",
+      "image": "../images/Vivo_X70_Pro.webp",
+      "description": "El Vivo X70 Pro+ es un smartphone con pantalla OLED de 6.78 pulgadas, procesador Snapdragon 888, sistema de cámara cuádruple con sensor principal de 50 MP y una batería de 4,500 mAh con carga rápida de 55W.",
+      "old_price": 899,
+      "new_price": 799
+    },
+    {
+      "id": "946",
+      "name": "ZTE Axon 30 Ultra",
+      "category": "smartphone",
+      "brand": "ZTE",
+      "imageUrl": "http://localhost:3000/images/ZTE_Axon_30_Ultra.jpg",
+      "image": "../images/ZTE_Axon_30_Ultra.jpg",
+      "description": "El ZTE Axon 30 Ultra es un teléfono con pantalla AMOLED de 6.67 pulgadas, procesador Snapdragon 888, sistema de cámara cuádruple con sensor principal de 64 MP y una batería de 4,600 mAh.",
+      "old_price": 799,
+      "new_price": 699
+    },
+    {
+      "name": "Lenovo Legion Phone Duel 2",
+      "category": "smartphone",
+      "brand": "Lenovo",
+      "id": "948",
+      "status": "available",
+      "imageUrl": "http://localhost:3000/images/Lenovo_Legion_Phone_Duel_2.jpg",
+      "image": "../images/Lenovo_Legion_Phone_Duel_2.jpg",
+      "description": "El Lenovo Legion Phone Duel 2 es un smartphone gaming con pantalla AMOLED de 6.92 pulgadas, procesador Snapdragon 888, sistema de cámara dual con sensor principal de 64 MP y una batería de 5,500 mAh.",
+      "old_price": 999,
+      "new_price": 899
+    },
+    {
+      "name": "Redmi Note 11 Pro",
+      "category": "smartphone",
+      "brand": "Redmi",
+      "status": "available",
+      "imageUrl": "http://localhost:3000/images/Redmi_Note_11_Pro.jpg",
+      "image": "../images/Redmi_Note_11_Pro.jpg",
+      "description": "El Redmi Note 11 Pro es un teléfono con pantalla AMOLED de 6.67 pulgadas, procesador Snapdragon 695, sistema de cámara triple con sensor principal de 108 MP y una batería de 5,000 mAh.",
+      "old_price": 499,
+      "new_price": 449
+    },
+
+    {
+      "id": 60,
+      "status": "available",
+      "name": "MacBook Pro 16-inch",
+      "category": "laptop",
+      "brand": "Apple",
+      "description": "La MacBook Pro de 16 pulgadas es una laptop potente diseñada para profesionales creativos. Cuenta con una pantalla Retina de 16 pulgadas, procesador Intel Core de novena generación, gráficos AMD Radeon Pro 5000M y hasta 64 GB de RAM.",
+      "old_price": 2399,
+      "new_price": 2299
+    },
+    {
+      "id": 61,
+      "status": "available",
+      "name": "Dell XPS 15",
+      "category": "laptop",
+      "brand": "Dell",
+      "description": "La Dell XPS 15 es una laptop premium con una pantalla InfinityEdge de 15.6 pulgadas, procesador Intel Core de décima generación, gráficos NVIDIA GeForce GTX 1650 Ti y una batería de larga duración.",
+      "old_price": 1799,
+      "new_price": 1699
+    },
+    {
+      "id": 62,
+      "status": "available",
+      "name": "HP Spectre x360",
+      "category": "laptop",
+      "brand": "HP",
+      "description": "La HP Spectre x360 es una laptop convertible elegante y potente con una pantalla táctil OLED de 13.3 pulgadas, procesador Intel Core de undécima generación, gráficos Intel Iris Xe y hasta 16 GB de RAM.",
+      "old_price": 1499,
+      "new_price": 1399
+    },
+    {
+      "id": 63,
+      "status": "available",
+      "name": "Lenovo ThinkPad X1 Carbon",
+      "category": "laptop",
+      "brand": "Lenovo",
+      "description": "La Lenovo ThinkPad X1 Carbon es una laptop empresarial ultraligera con una pantalla IPS de 14 pulgadas, procesador Intel Core de décima generación, gráficos Intel UHD y una batería de larga duración.",
+      "old_price": 1399,
+      "new_price": 1299
+    },
+    {
+      "id": 64,
+      "status": "available",
+      "name": "Asus ZenBook 14",
+      "category": "laptop",
+      "brand": "Asus",
+      "description": "El Asus ZenBook 14 es una laptop ultradelgada y ligera con una pantalla NanoEdge de 14 pulgadas, procesador Intel Core de décima generación, gráficos NVIDIA GeForce MX450 y una batería de hasta 22 horas de duración.",
+      "old_price": 999,
+      "new_price": 899
+    },
+    {
+      "id": 65,
+      "status": "available",
+      "name": "Microsoft Surface Laptop 4",
+      "category": "laptop",
+      "brand": "Microsoft",
+      "description": "El Microsoft Surface Laptop 4 es una laptop elegante con una pantalla PixelSense de 13.5 pulgadas o 15 pulgadas, procesador Intel Core o AMD Ryzen, gráficos Intel Iris Xe o AMD Radeon y hasta 32 GB de RAM.",
+      "old_price": 1299,
+      "new_price": 1199
+    },
+    {
+      "id": 66,
+      "status": "available",
+      "name": "Razer Blade 15",
+      "category": "laptop",
+      "brand": "Razer",
+      "description": "El Razer Blade 15 es una laptop gaming potente con una pantalla Full HD de 15.6 pulgadas con frecuencia de actualización de 144Hz, procesador Intel Core de décima generación, gráficos NVIDIA GeForce RTX 3060 y hasta 16 GB de RAM.",
+      "old_price": 1799,
+      "new_price": 1699
+    },
+    {
+      "id": 67,
+      "name": "Acer Swift 3",
+      "category": "laptop",
+      "status": " not available",
+      "brand": "Acer",
+      "description": "El Acer Swift 3 es una laptop ultraligera y portátil con una pantalla IPS Full HD de 14 pulgadas, procesador AMD Ryzen 7, gráficos AMD Radeon y una batería de larga duración.",
+      "old_price": 799,
+      "new_price": 699
+    },
+    {
+      "id": 68,
+      "status": " not available",
+      "name": "Gigabyte Aero 15 OLED",
+      "category": "laptop",
+      "brand": "Gigabyte",
+      "description": "El Gigabyte Aero 15 OLED es una laptop para creadores con una pantalla OLED 4K de 15.6 pulgadas, procesador Intel Core i7, gráficos NVIDIA GeForce RTX 3070 y hasta 64 GB de RAM.",
+      "old_price": 2199,
+      "new_price": 2099
+    },
+    {
+      "id": 69,
+      "name": "MSI GS66 Stealth",
+      "status": " not available",
+      "category": "laptop",
+      "brand": "MSI",
+      "description": "El MSI GS66 Stealth es una laptop gaming delgada y potente con una pantalla Full HD de 15.6 pulgadas con frecuencia de actualización de 300Hz, procesador Intel Core de décima generación, gráficos NVIDIA GeForce RTX 3080 y hasta 32 GB de RAM.",
+      "old_price": 2399,
+      "new_price": 2299
+    },
+    {
+      "id": 70,
+      "name": "Huawei MateBook X Pro",
+      "category": "laptop",
+      "status": " not available",
+      "brand": "Huawei",
+      "description": "La Huawei MateBook X Pro es una laptop premium con una pantalla FullView de 13.9 pulgadas, procesador Intel Core de décima generación, gráficos NVIDIA GeForce MX250 y una batería de larga duración.",
+      "old_price": 1499,
+      "new_price": 1399
+    },
+    {
+      "id": 71,
+      "name": "LG Gram 17",
+      "status": " not available",
+      "category": "laptop",
+      "brand": "LG",
+      "description": "El LG Gram 17 es una laptop ultraligera con una pantalla IPS WQXGA de 17 pulgadas, procesador Intel Core de décima generación, gráficos Intel Iris Plus y una batería de hasta 17 horas de duración.",
+      "old_price": 1499,
+      "new_price": 1399
+    },
+    {
+      "id": 72,
+      "name": "Samsung Galaxy Book Pro 360",
+      "category": "laptop",
+      "status": " not available",
+      "brand": "Samsung",
+      "description": "La Samsung Galaxy Book Pro 360 es una laptop convertible con una pantalla AMOLED de 15.6 pulgadas, procesador Intel Core de undécima generación, gráficos Intel Iris Xe y una batería de hasta 21 horas de duración.",
+      "old_price": 1299,
+      "new_price": 1199
+    },
+    {
+      "id": 73,
+      "name": "Toshiba Portégé X30L-G",
+      "category": "laptop",
+      "status": " not available",
+      "brand": "Toshiba",
+      "description": "El Toshiba Portégé X30L-G es una laptop empresarial ultraligera con una pantalla Full HD de 13.3 pulgadas, procesador Intel Core de décima generación, gráficos Intel UHD y una batería de hasta 14 horas de duración.",
+      "old_price": 1299,
+      "new_price": 1199
+    }
+  ],
+  "new_collection": [
+    {
+      "id": 12,
+      "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+      "image": "../images/product_12.png",
+      "imageUrl": "http://localhost:3000/images/product_12.png",
+      "new_price": 50.0,
+      "old_price": 80.5,
+      "description": "Elevate your style with this chic peplum blouse featuring striped flutter sleeves and an overlap collar design. This versatile blouse adds a touch of sophistication to your wardrobe. Pair it with jeans for a casual look or dress it up with a skirt for a night out."
+    },
+    {
+      "id": 35,
+      "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+      "image": "../images/product_35.png",
+      "imageUrl": "http://localhost:3000/images/product_35.png",
+      "new_price": 85.0,
+      "old_price": 120.5,
+      "description": "Keep your little one warm and stylish with this vibrant hooded sweatshirt. Featuring a bold orange colorblocked design, this sweatshirt is perfect for outdoor adventures. Crafted from soft and durable fabric, it offers comfort and versatility for everyday wear."
+    },
+    {
+      "id": 14,
+      "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+      "image": "../images/product_14.png",
+      "imageUrl": "http://localhost:3000/images/product_14.png",
+      "new_price": 60.0,
+      "old_price": 100.5,
+      "description": "Step out in style with this sleek slim fit bomber jacket. Crafted with a full-zip closure and solid green color, this jacket offers a modern and trendy look. Pair it with jeans or chinos for a casual outing or layer it over a shirt for a more polished ensemble."
+    },
+    {
+      "id": 8,
+      "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+      "image": "../images/product_8.png",
+      "imageUrl": "http://localhost:3000/images/product_8.png",
+      "new_price": 100.0,
+      "old_price": 150.0,
+      "description": "Make a statement in this elegant peplum blouse featuring striped flutter sleeves and an overlap collar. This versatile blouse is perfect for both casual and formal occasions. Pair it with tailored pants for the office or with a skirt for a night out."
+    },
+    {
+      "id": 15,
+      "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+      "image": "../images/product_15.png",
+      "imageUrl": "http://localhost:3000/images/product_15.png",
+      "new_price": 50.0,
+      "old_price": 80.5,
+      "description": "Add a stylish layer to your outfit with this solid green bomber jacket. Featuring a slim fit and full-zip closure, this jacket offers a contemporary look. Ideal for casual outings, it pairs well with jeans and sneakers for a laid-back vibe."
+    },
+    {
+      "id": 2,
+      "name": "Striped Flutter Sleeve Overlap Collar Peplum Hem Blouse",
+      "image": "../images/product_2.png",
+      "imageUrl": "http://localhost:3000/images/product_2.png",
+      "new_price": 85.0,
+      "old_price": 120.5,
+      "description": "Achieve a sophisticated look with this stylish peplum blouse. Featuring flutter sleeves and an overlap collar, this blouse adds elegance to any outfit. Dress it up with tailored pants or keep it casual with jeans for a versatile wardrobe staple."
+    },
+    {
+      "id": 17,
+      "name": "Men Green Solid Zippered Full-Zip Slim Fit Bomber Jacket",
+      "image": "../images/product_17.png",
+      "imageUrl": "http://localhost:3000/images/product_17.png",
+      "new_price": 60.0,
+      "old_price": 100.5,
+      "description": "Make a fashion statement with this green slim fit bomber jacket. Crafted from quality materials, this jacket offers both style and comfort. Perfect for everyday wear, it pairs effortlessly with jeans or trousers for a polished look."
+    },
+    {
+      "id": 28,
+      "name": "Boys Orange Colourblocked Hooded Sweatshirt",
+      "image": "../images/product_28.png",
+      "imageUrl": "http://localhost:3000/images/product_28.png",
+      "new_price": 100.0,
+      "old_price": 150.0,
+      "description": "Update your kid's wardrobe with this trendy orange colourblocked hooded sweatshirt. Crafted with comfort in mind, this sweatshirt offers warmth and style. Ideal for outdoor activities or casual wear, it adds a pop of color to your child's ensemble."
+    }
+  ],
+
+  "electronic": [
+    {
+      "id": 40,
+      "name": "Xiaomi Mi 11 Ultra",
+      "category": "smartphone",
+      "brand": "Xiaomi",
+      "description": "El Xiaomi Mi 11 Ultra es un teléfono con una pantalla AMOLED de 6.81 pulgadas, procesador Snapdragon 888, sistema de cámara triple con sensor principal de 50 MP y zoom óptico 5x, y una batería de 5,000 mAh con carga rápida de 67W.",
+      "imageUrl": "http://localhost:3000/images/Xiaomi_Mi_11_Ultra.jpg",
+      "image": "../images/Xiaomi_Mi_11_Ultra.jpg",
+      "old_price": 1199,
+      "new_price": 1099
+    },
+    {
+      "id": 111,
+      "name": "Sony Xperia 1 III",
+      "category": "smartphone",
+      "brand": "Sony",
+      "description": "El Sony Xperia 1 III es un smartphone con pantalla OLED 4K HDR de 6.5 pulgadas, procesador Snapdragon 888, sistema de cámara triple con tecnología ZEISS y una batería de 4,500 mAh.",
+      "old_price": 1299,
+      "new_price": 1199
+    },
+    {
+      "id": 42,
+      "name": "Huawei P50 Pro",
+      "category": "smartphone",
+      "brand": "Huawei",
+      "description": "El Huawei P50 Pro es un teléfono con una pantalla OLED de 6.6 pulgadas, procesador Snapdragon 888 (Exynos 9000 en algunas regiones), sistema de cámara cuádruple con sensor principal de 50 MP y zoom óptico 5x, y una batería de 4,360 mAh.",
+      "imageUrl": "http://localhost:3000/images/Huawei_P50_Pro.jpg",
+      "image": "../images/Huawei_P50_Pro.jpg",
+      "old_price": 1099,
+      "new_price": 999
+    },
+    {
+      "id": 43,
+      "name": "Realme GT",
+      "category": "smartphone",
+      "brand": "Realme",
+      "description": "El Realme GT es un smartphone con una pantalla Super AMOLED de 6.43 pulgadas, procesador Snapdragon 888, sistema de cámara triple con sensor principal de 64 MP y una batería de 4,500 mAh con carga rápida de 65W.",
+      "imageUrl": "http://localhost:3000/images/Realme_GT.webp",
+      "image": "../images/Realme_GT.webp",
+      "old_price": 599,
+      "new_price": 549
+    },
+    {
+      "id": 44,
+      "name": "Asus ROG Phone 5",
+      "category": "smartphone",
+      "brand": "Asus",
+      "description": "El Asus ROG Phone 5 es un teléfono gaming con pantalla AMOLED de 6.78 pulgadas, procesador Snapdragon 888, sistema de cámara triple con sensor principal de 64 MP y una batería de 6,000 mAh.",
+      "imageUrl": "http://localhost:3000/images/Asus_ROG_Phone_5.jpg",
+      "image": "../images/Asus_ROG_Phone_5.jpg",
+      "old_price": 999,
+      "new_price": 899
+    },
+    {
+      "id": 45,
+      "name": "LG Wing",
+      "category": "smartphone",
+      "brand": "LG",
+      "description": "El LG Wing es un smartphone único con una pantalla principal OLED de 6.8 pulgadas que gira para revelar una segunda pantalla de 3.9 pulgadas. Cuenta con un procesador Snapdragon 765G, sistema de cámara triple con un sensor principal de 64 MP y una batería de 4,000 mAh.",
+      "imageUrl": "http://localhost:3000/images/LG_Wing.webp",
+      "image": "../images/LG_Wing.webp",
+      "old_price": 999,
+      "new_price": 899
+    },
+    {
+      "id": 46,
+      "name": "Motorola Edge 20 Pro",
+      "category": "smartphone",
+      "brand": "Motorola",
+      "description": "El Motorola Edge 20 Pro es un smartphone con una pantalla OLED de 6.7 pulgadas, procesador Snapdragon 870, sistema de cámara triple con sensor principal de 108 MP y una batería de 4,500 mAh con carga rápida de 30W.",
+      "imageUrl": "http://localhost:3000/images/Motorola_Edge_20_Pro.jpg",
+      "image": "../images/Motorola_Edge_20_Pro.jpg",
+      "old_price": 699,
+      "new_price": 649
+    },
+    {
+      "id": 47,
+      "name": "Nokia X20",
+      "category": "smartphone",
+      "brand": "Nokia",
+      "description": "El Nokia X20 es un teléfono con una pantalla IPS LCD de 6.67 pulgadas, procesador Snapdragon 480, sistema de cámara cuádruple con sensor principal de 64 MP y una batería de 4,470 mAh.",
+      "imageUrl": "http://localhost:3000/images/Nokia_X20.webp",
+      "image": "../images/Nokia_X20.webp",
+      "old_price": 399,
+      "new_price": 349
+    },
+    {
+      "id": 48,
+      "name": "BlackBerry Key3",
+      "category": "smartphone",
+      "brand": "BlackBerry",
+      "description": "El BlackBerry Key3 es un smartphone con teclado físico y pantalla OLED de 6.5 pulgadas, procesador Snapdragon 765G, sistema de cámara dual con sensor principal de 48 MP y una batería de 4,500 mAh.",
+      "imageUrl": "http://localhost:3000/images/BlackBerry_Key3.jpg",
+      "image": "../images/BlackBerry_Key3.jpg",
+      "old_price": 799,
+      "new_price": 699
+    },
+    {
+      "id": 49,
+      "name": "Oppo Find X4 Pro",
+      "category": "smartphone",
+      "brand": "Oppo",
+      "description": "El Oppo Find X4 Pro es un teléfono con pantalla OLED de 6.7 pulgadas, procesador Snapdragon 8 Gen 1, sistema de cámara triple con sensor principal de 50 MP y una batería de 5,000 mAh.",
+      "imageUrl": "http://localhost:3000/images/Oppo_Find_X4_Pro.jpg",
+      "image": "../images/Oppo_Find_X4_Pro.jpg",
+      "old_price": 1099,
+      "new_price": 999
+    },
+    {
+      "id": 50,
+      "name": "Vivo X70 Pro+",
+      "category": "smartphone",
+      "brand": "Vivo",
+      "description": "El Vivo X70 Pro+ es un smartphone con pantalla OLED de 6.78 pulgadas, procesador Snapdragon 888, sistema de cámara cuádruple con sensor principal de 50 MP y una batería de 4,500 mAh con carga rápida de 55W.",
+      "imageUrl": "http://localhost:3000/images/Vivo_X70_Pro.webp",
+      "image": "../images/Vivo_X70_Pro.webp",
+      "old_price": 899,
+      "new_price": 799
+    },
+    {
+      "id": 51,
+      "name": "ZTE Axon 30 Ultra",
+      "category": "smartphone",
+      "brand": "ZTE",
+      "description": "El ZTE Axon 30 Ultra es un teléfono con pantalla AMOLED de 6.67 pulgadas, procesador Snapdragon 888, sistema de cámara cuádruple con sensor principal de 64 MP y una batería de 4,600 mAh.",
+      "imageUrl": "http://localhost:3000/images/ZTE_Axon_30_Ultra.jpg",
+      "image": "../images/ZTE_Axon_30_Ultra.jpg",
+      "old_price": 799,
+      "new_price": 699
+    },
+    {
+      "id": 52,
+      "name": "Lenovo Legion Phone Duel 2",
+      "category": "smartphone",
+      "brand": "Lenovo",
+      "description": "El Lenovo Legion Phone Duel 2 es un smartphone gaming con pantalla AMOLED de 6.92 pulgadas, procesador Snapdragon 888, sistema de cámara dual con sensor principal de 64 MP y una batería de 5,500 mAh.",
+      "imageUrl": "http://localhost:3000/images/Lenovo_Legion_Phone_Duel_2.jpg",
+      "image": "../images/Lenovo_Legion_Phone_Duel_2.jpg",
+      "old_price": 999,
+      "new_price": 899
+    },
+    {
+      "id": 53,
+      "name": "Redmi Note 11 Pro",
+      "category": "smartphone",
+      "brand": "Redmi",
+      "description": "El Redmi Note 11 Pro es un teléfono con pantalla AMOLED de 6.67 pulgadas, procesador Snapdragon 695, sistema de cámara triple con sensor principal de 108 MP y una batería de 5,000 mAh.",
+      "imageUrl": "http://localhost:3000/images/Redmi_Note_11_Pro.jpg",
+      "image": "../images/Redmi_Note_11_Pro.jpg",
+      "old_price": 499,
+      "new_price": 449
+    },
+    {
+      "name": "iPhone 13 Pro Max",
+      "category": "smartphone",
+      "imageUrl": "http://localhost:3000/images/iPhone_13.jpg",
+      "image": "../images/iPhone_13.jpg",
+      "brand": "Apple",
+      "description": "El iPhone 13 Pro Max es el buque insignia de Apple con una pantalla Super Retina XDR de 6.7 pulgadas, procesador A15 Bionic, sistema de triple cámara con tecnología LiDAR y modo noche mejorado.",
+      "old_price": 1299,
+      "new_price": 1199
+    },
+    {
+      "id": 37,
+      "name": "Samsung Galaxy S21 Ultra",
+      "category": "smartphone",
+      "brand": "Samsung",
+      "imageUrl": "http://localhost:3000/images/Samsung_Galaxy_S21_Ultra.webp",
+      "image": "../images/Samsung_Galaxy_S21_Ultra.webp",
+      "description": "El Samsung Galaxy S21 Ultra es el teléfono más avanzado de la serie Galaxy S21. Cuenta con una pantalla Dynamic AMOLED 2X de 6.8 pulgadas, procesador Exynos 2100 (Snapdragon 888 en algunas regiones), sistema de cámara cuádruple con zoom óptico de 10x y compatibilidad con S Pen.",
+      "old_price": 1399,
+      "new_price": 1199
+    },
+    {
+      "id": 38,
+      "name": "Google Pixel 6 Pro",
+      "category": "smartphone",
+      "brand": "Google",
+      "imageUrl": "http://localhost:3000/images/Google_Pixel_6_Pro.jpg",
+      "image": "../images/Google_Pixel_6_Pro.jpg",
+
+      "description": "El Google Pixel 6 Pro es el último buque insignia de Google con una pantalla OLED de 6.7 pulgadas, procesador Tensor personalizado de Google, sistema de cámara de triple lente con teleobjetivo y una batería de larga duración.",
+      "old_price": 899,
+      "new_price": 799
+    },
+    {
+      "id": 39,
+
+      "name": "OnePlus 9 Pro",
+      "category": "smartphone",
+      "brand": "OnePlus",
+      "imageUrl": "http://localhost:3000/images/OnePlus_9_Pro.jpg",
+      "image": "../images/OnePlus_9_Pro.jpg",
+      "description": "El OnePlus 9 Pro es un smartphone de alta gama con una pantalla Fluid AMOLED de 6.7 pulgadas, procesador Snapdragon 888, sistema de cámara Hasselblad de cuádruple lente y carga rápida de 65 W.",
+      "old_price": 999,
+      "new_price": 899
+    },
+    {
+      "id": 40,
+      "name": "Xiaomi Mi 11 Ultra",
+      "category": "smartphone",
+      "brand": "Xiaomi",
+      "description": "El Xiaomi Mi 11 Ultra es un teléfono con una pantalla AMOLED de 6.81 pulgadas, procesador Snapdragon 888, sistema de cámara triple con sensor principal de 50 MP y zoom óptico 5x, y una batería de 5,000 mAh con carga rápida de 67W.",
+      "imageUrl": "http://localhost:3000/images/Xiaomi_Mi_11_Ultra.jpg",
+      "image": "../images/Xiaomi_Mi_11_Ultra.jpg",
+      "old_price": 1199,
+      "new_price": 1099
+    },
+    {
+      "id": 141,
+      "name": "Sony Xperia 1 III",
+      "category": "smartphone",
+      "brand": "Sony",
+      "description": "El Sony Xperia 1 III es un smartphone con pantalla OLED 4K HDR de 6.5 pulgadas, procesador Snapdragon 888, sistema de cámara triple con tecnología ZEISS y una batería de 4,500 mAh.",
+      "old_price": 1299,
+      "new_price": 1199
+    },
+    {
+      "name": "Huawei P50 Pro",
+      "category": "smartphone",
+      "brand": "Huawei",
+      "imageUrl": "http://localhost:3000/images/Huawei_P50_Pro.jpg",
+      "image": "../images/Huawei_P50_Pro.jpg",
+      "description": "El Huawei P50 Pro es un teléfono con una pantalla OLED de 6.6 pulgadas, procesador Snapdragon 888 (Exynos 9000 en algunas regiones), sistema de cámara cuádruple con sensor principal de 50 MP y zoom óptico 5x, y una batería de 4,360 mAh.",
+      "old_price": 1099,
+      "new_price": 999
+    },
+    {
+      "name": "Realme GT",
+      "category": "smartphone",
+      "brand": "Realme",
+      "imageUrl": "http://localhost:3000/images/Realme_GT.webp",
+      "image": "../images/Realme_GT.webp",
+      "description": "El Realme GT es un smartphone con una pantalla Super AMOLED de 6.43 pulgadas, procesador Snapdragon 888, sistema de cámara triple con sensor principal de 64 MP y una batería de 4,500 mAh con carga rápida de 65W.",
+      "old_price": 599,
+      "new_price": 549
+    },
+    {
+      "name": "Asus ROG Phone 5",
+      "category": "smartphone",
+      "brand": "Asus",
+      "imageUrl": "http://localhost:3000/images/Asus_ROG_Phone_5.jpg",
+      "image": "../images/Asus_ROG_Phone_5.jpg",
+      "description": "El Asus ROG Phone 5 es un teléfono gaming con pantalla AMOLED de 6.78 pulgadas, procesador Snapdragon 888, sistema de cámara triple con sensor principal de 64 MP y una batería de 6,000 mAh.",
+      "old_price": 999,
+      "new_price": 899
+    },
+    {
+      "name": "LG Wing",
+      "category": "smartphone",
+      "brand": "LG",
+      "imageUrl": "http://localhost:3000/images/LG_Wing.webp",
+      "image": "../images/LG_Wing.webp",
+      "description": "El LG Wing es un smartphone único con una pantalla principal OLED de 6.8 pulgadas que gira para revelar una segunda pantalla de 3.9 pulgadas. Cuenta con un procesador Snapdragon 765G, sistema de cámara triple con un sensor principal de 64 MP y una batería de 4,000 mAh.",
+      "old_price": 999,
+      "new_price": 899
+    },
+    {
+      "name": "Motorola Edge 20 Pro",
+      "category": "smartphone",
+      "brand": "Motorola",
+      "imageUrl": "http://localhost:3000/images/Motorola_Edge_20_Pro.jpg",
+      "image": "../images/Motorola_Edge_20_Pro.jpg",
+      "description": "El Motorola Edge 20 Pro es un smartphone con una pantalla OLED de 6.7 pulgadas, procesador Snapdragon 870, sistema de cámara triple con sensor principal de 108 MP y una batería de 4,500 mAh con carga rápida de 30W.",
+      "old_price": 699,
+      "new_price": 649
+    },
+    {
+      "name": "Nokia X20",
+      "category": "smartphone",
+      "brand": "Nokia",
+      "imageUrl": "http://localhost:3000/images/Nokia_X20.webp",
+      "image": "../images/Nokia_X20.webp",
+      "description": "El Nokia X20 es un teléfono con una pantalla IPS LCD de 6.67 pulgadas, procesador Snapdragon 480, sistema de cámara cuádruple con sensor principal de 64 MP y una batería de 4,470 mAh.",
+      "old_price": 399,
+      "new_price": 349
+    },
+    {
+      "name": "BlackBerry Key3",
+      "category": "smartphone",
+      "brand": "BlackBerry",
+      "imageUrl": "http://localhost:3000/images/BlackBerry_Key3.jpg",
+      "image": "../images/BlackBerry_Key3.jpg",
+      "description": "El BlackBerry Key3 es un smartphone con teclado físico y pantalla OLED de 6.5 pulgadas, procesador Snapdragon 765G, sistema de cámara dual con sensor principal de 48 MP y una batería de 4,500 mAh.",
+      "old_price": 799,
+      "new_price": 699
+    },
+    {
+      "name": "Oppo Find X4 Pro",
+      "category": "smartphone",
+      "brand": "Oppo",
+      "imageUrl": "http://localhost:3000/images/Oppo_Find_X4_Pro.jpg",
+      "image": "../images/Oppo_Find_X4_Pro.jpg",
+      "description": "El Oppo Find X4 Pro es un teléfono con pantalla OLED de 6.7 pulgadas, procesador Snapdragon 8 Gen 1, sistema de cámara triple con sensor principal de 50 MP y una batería de 5,000 mAh.",
+      "old_price": 1099,
+      "new_price": 999
+    },
+    {
+      "name": "Vivo X70 Pro+",
+      "category": "smartphone",
+      "brand": "Vivo",
+      "imageUrl": "http://localhost:3000/images/Vivo_X70_Pro.webp",
+      "image": "../images/Vivo_X70_Pro.webp",
+      "description": "El Vivo X70 Pro+ es un smartphone con pantalla OLED de 6.78 pulgadas, procesador Snapdragon 888, sistema de cámara cuádruple con sensor principal de 50 MP y una batería de 4,500 mAh con carga rápida de 55W.",
+      "old_price": 899,
+      "new_price": 799
+    },
+    {
+      "name": "ZTE Axon 30 Ultra",
+      "category": "smartphone",
+      "brand": "ZTE",
+      "imageUrl": "http://localhost:3000/images/ZTE_Axon_30_Ultra.jpg",
+      "image": "../images/ZTE_Axon_30_Ultra.jpg",
+      "description": "El ZTE Axon 30 Ultra es un teléfono con pantalla AMOLED de 6.67 pulgadas, procesador Snapdragon 888, sistema de cámara cuádruple con sensor principal de 64 MP y una batería de 4,600 mAh.",
+      "old_price": 799,
+      "new_price": 699
+    },
+    {
+      "name": "Lenovo Legion Phone Duel 2",
+      "category": "smartphone",
+      "brand": "Lenovo",
+      "imageUrl": "http://localhost:3000/images/Lenovo_Legion_Phone_Duel_2.jpg",
+      "image": "../images/Lenovo_Legion_Phone_Duel_2.jpg",
+      "description": "El Lenovo Legion Phone Duel 2 es un smartphone gaming con pantalla AMOLED de 6.92 pulgadas, procesador Snapdragon 888, sistema de cámara dual con sensor principal de 64 MP y una batería de 5,500 mAh.",
+      "old_price": 999,
+      "new_price": 899
+    },
+    {
+      "name": "Redmi Note 11 Pro",
+      "category": "smartphone",
+      "brand": "Redmi",
+      "imageUrl": "http://localhost:3000/images/Redmi_Note_11_Pro.jpg",
+      "image": "../images/Redmi_Note_11_Pro.jpg",
+      "description": "El Redmi Note 11 Pro es un teléfono con pantalla AMOLED de 6.67 pulgadas, procesador Snapdragon 695, sistema de cámara triple con sensor principal de 108 MP y una batería de 5,000 mAh.",
+      "old_price": 499,
+      "new_price": 449
+    },
+
+    {
+      "id": 60,
+      "name": "MacBook Pro 16-inch",
+      "category": "laptop",
+      "brand": "Apple",
+      "description": "La MacBook Pro de 16 pulgadas es una laptop potente diseñada para profesionales creativos. Cuenta con una pantalla Retina de 16 pulgadas, procesador Intel Core de novena generación, gráficos AMD Radeon Pro 5000M y hasta 64 GB de RAM.",
+      "old_price": 2399,
+      "new_price": 2299
+    },
+    {
+      "id": 61,
+      "name": "Dell XPS 15",
+      "category": "laptop",
+      "brand": "Dell",
+      "description": "La Dell XPS 15 es una laptop premium con una pantalla InfinityEdge de 15.6 pulgadas, procesador Intel Core de décima generación, gráficos NVIDIA GeForce GTX 1650 Ti y una batería de larga duración.",
+      "old_price": 1799,
+      "new_price": 1699
+    },
+    {
+      "id": 62,
+      "name": "HP Spectre x360",
+      "category": "laptop",
+      "brand": "HP",
+      "description": "La HP Spectre x360 es una laptop convertible elegante y potente con una pantalla táctil OLED de 13.3 pulgadas, procesador Intel Core de undécima generación, gráficos Intel Iris Xe y hasta 16 GB de RAM.",
+      "old_price": 1499,
+      "new_price": 1399
+    },
+    {
+      "id": 63,
+      "name": "Lenovo ThinkPad X1 Carbon",
+      "category": "laptop",
+      "brand": "Lenovo",
+      "description": "La Lenovo ThinkPad X1 Carbon es una laptop empresarial ultraligera con una pantalla IPS de 14 pulgadas, procesador Intel Core de décima generación, gráficos Intel UHD y una batería de larga duración.",
+      "old_price": 1399,
+      "new_price": 1299
+    },
+    {
+      "id": 64,
+      "name": "Asus ZenBook 14",
+      "category": "laptop",
+      "brand": "Asus",
+      "description": "El Asus ZenBook 14 es una laptop ultradelgada y ligera con una pantalla NanoEdge de 14 pulgadas, procesador Intel Core de décima generación, gráficos NVIDIA GeForce MX450 y una batería de hasta 22 horas de duración.",
+      "old_price": 999,
+      "new_price": 899
+    },
+    {
+      "id": 65,
+      "name": "Microsoft Surface Laptop 4",
+      "category": "laptop",
+      "brand": "Microsoft",
+      "description": "El Microsoft Surface Laptop 4 es una laptop elegante con una pantalla PixelSense de 13.5 pulgadas o 15 pulgadas, procesador Intel Core o AMD Ryzen, gráficos Intel Iris Xe o AMD Radeon y hasta 32 GB de RAM.",
+      "old_price": 1299,
+      "new_price": 1199
+    },
+    {
+      "id": 66,
+      "name": "Razer Blade 15",
+      "category": "laptop",
+      "brand": "Razer",
+      "description": "El Razer Blade 15 es una laptop gaming potente con una pantalla Full HD de 15.6 pulgadas con frecuencia de actualización de 144Hz, procesador Intel Core de décima generación, gráficos NVIDIA GeForce RTX 3060 y hasta 16 GB de RAM.",
+      "old_price": 1799,
+      "new_price": 1699
+    },
+    {
+      "id": 67,
+      "name": "Acer Swift 3",
+      "category": "laptop",
+      "brand": "Acer",
+      "description": "El Acer Swift 3 es una laptop ultraligera y portátil con una pantalla IPS Full HD de 14 pulgadas, procesador AMD Ryzen 7, gráficos AMD Radeon y una batería de larga duración.",
+      "old_price": 799,
+      "new_price": 699
+    },
+    {
+      "id": 68,
+      "name": "Gigabyte Aero 15 OLED",
+      "category": "laptop",
+      "brand": "Gigabyte",
+      "description": "El Gigabyte Aero 15 OLED es una laptop para creadores con una pantalla OLED 4K de 15.6 pulgadas, procesador Intel Core i7, gráficos NVIDIA GeForce RTX 3070 y hasta 64 GB de RAM.",
+      "old_price": 2199,
+      "new_price": 2099
+    },
+    {
+      "id": 69,
+      "name": "MSI GS66 Stealth",
+      "category": "laptop",
+      "brand": "MSI",
+      "description": "El MSI GS66 Stealth es una laptop gaming delgada y potente con una pantalla Full HD de 15.6 pulgadas con frecuencia de actualización de 300Hz, procesador Intel Core de décima generación, gráficos NVIDIA GeForce RTX 3080 y hasta 32 GB de RAM.",
+      "old_price": 2399,
+      "new_price": 2299
+    },
+    {
+      "id": 70,
+      "name": "Huawei MateBook X Pro",
+      "category": "laptop",
+      "brand": "Huawei",
+      "description": "La Huawei MateBook X Pro es una laptop premium con una pantalla FullView de 13.9 pulgadas, procesador Intel Core de décima generación, gráficos NVIDIA GeForce MX250 y una batería de larga duración.",
+      "old_price": 1499,
+      "new_price": 1399
+    },
+    {
+      "id": 71,
+      "name": "LG Gram 17",
+      "category": "laptop",
+      "brand": "LG",
+      "description": "El LG Gram 17 es una laptop ultraligera con una pantalla IPS WQXGA de 17 pulgadas, procesador Intel Core de décima generación, gráficos Intel Iris Plus y una batería de hasta 17 horas de duración.",
+      "old_price": 1499,
+      "new_price": 1399
+    },
+    {
+      "id": 72,
+      "name": "Samsung Galaxy Book Pro 360",
+      "category": "laptop",
+      "brand": "Samsung",
+      "description": "La Samsung Galaxy Book Pro 360 es una laptop convertible con una pantalla AMOLED de 15.6 pulgadas, procesador Intel Core de undécima generación, gráficos Intel Iris Xe y una batería de hasta 21 horas de duración.",
+      "old_price": 1299,
+      "new_price": 1199
+    },
+    {
+      "id": 73,
+      "name": "Toshiba Portégé X30L-G",
+      "category": "laptop",
+      "brand": "Toshiba",
+      "description": "El Toshiba Portégé X30L-G es una laptop empresarial ultraligera con una pantalla Full HD de 13.3 pulgadas, procesador Intel Core de décima generación, gráficos Intel UHD y una batería de hasta 14 horas de duración.",
+      "old_price": 1299,
+      "new_price": 1199
+    }
+  ]
+}
