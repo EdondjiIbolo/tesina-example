@@ -26,58 +26,7 @@ export class ServiceController {
 
     return res.status(200).json(result);
   }
-  static async AccountSetting(req, res) {
-    const object = req.body;
-    console.log(object);
 
-    const result = await ServiceModel.AccountSetting({ object });
-    if (result.error) {
-      return res.status(400).json({ error: result.error });
-    }
-
-    return res.status(201).json({ result });
-  }
-  static async createUser(req, res) {
-    const object = req.body;
-
-    const result = await ServiceModel.signInUser({ object });
-    if (result.error) {
-      return res.status(400).json({ error: result.error });
-    }
-    const userForToken = {
-      name: object.name,
-      password: object.password,
-    };
-    const token = jwt.sign(userForToken, "secret", { expiresIn: "3d" });
-    const data = {
-      name: object.name,
-      username: object.surename,
-      email: object.email,
-      token,
-    };
-    return res.status(201).json({ data });
-  }
-  static async loginUser(req, res) {
-    const object = req.body;
-    console.log(object);
-    const result = await UserModel.loginUser({ object });
-    if (result?.error) {
-      return res.status(401).json({ error: result.eror });
-    }
-    const userForToken = {
-      name: object.name,
-      password: object.password,
-    };
-
-    const token = jwt.sign(userForToken, "secret", { expiresIn: "3d" });
-    const data = {
-      name: object.name,
-      username: object.surename,
-      email: object.email,
-      token,
-    };
-    return res.status(200).json(data);
-  }
   static async getProducts(req, res) {
     const { id } = req.query;
 
