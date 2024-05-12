@@ -12,7 +12,6 @@ const channel = stripe(process.env.STRIPE_SECRET);
 const endpointSecret =
   "whsec_e1c83351be80ce1957ab009ffbaaf0ed9f85e95a839d96dc5a018850c41a9861";
 
-import { ServiceModel } from "../Model/product.js";
 import { UserModel } from "../Model/products-json.js";
 
 export class ServiceController {
